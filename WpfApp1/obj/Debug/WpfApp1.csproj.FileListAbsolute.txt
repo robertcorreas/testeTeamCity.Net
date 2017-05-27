@@ -13,3 +13,14 @@ C:\Users\robert-admin\Downloads\Projeto team\WpfApp1\WpfApp1\obj\Debug\WpfApp1.c
 C:\Users\robert-admin\Downloads\Projeto team\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
 C:\Users\robert-admin\Downloads\Projeto team\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
 C:\Users\robert-admin\Downloads\Projeto team\WpfApp1\WpfApp1\bin\Debug\Nuclex.Cloning.dll
+C:\Users\robert-admin\Downloads\Projeto team\WpfApp1\WpfApp1\bin\Debug\xunit.abstractions.dll
+C:\Users\robert-admin\Downloads\Projeto team\WpfApp1\WpfApp1\bin\Debug\xunit.assert.dll
+C:\Users\robert-admin\Downloads\Projeto team\WpfApp1\WpfApp1\bin\Debug\xunit.core.dll
+C:\Users\robert-admin\Downloads\Projeto team\WpfApp1\WpfApp1\bin\Debug\xunit.execution.desktop.dll
+C:\Users\robert-admin\Downloads\Projeto team\WpfApp1\WpfApp1\bin\Debug\xunit.assert.xml
+C:\Users\robert-admin\Downloads\Projeto team\WpfApp1\WpfApp1\bin\Debug\xunit.core.xml
+C:\Users\robert-admin\Downloads\Projeto team\WpfApp1\WpfApp1\bin\Debug\xunit.execution.desktop.xml
+C:\Users\robert-admin\Downloads\Projeto team\WpfApp1\WpfApp1\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\robert-admin\Downloads\Projeto team\WpfApp1\WpfApp1\bin\Debug\xunit.runner.utility.net35.dll
+C:\Users\robert-admin\Downloads\Projeto team\WpfApp1\WpfApp1\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\robert-admin\Downloads\Projeto team\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
