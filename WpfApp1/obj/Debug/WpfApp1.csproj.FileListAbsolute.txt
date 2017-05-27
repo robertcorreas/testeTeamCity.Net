@@ -12,3 +12,4 @@ C:\Users\robert-admin\Downloads\Projeto team\WpfApp1\WpfApp1\obj\Debug\WpfApp1.P
 C:\Users\robert-admin\Downloads\Projeto team\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
 C:\Users\robert-admin\Downloads\Projeto team\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
 C:\Users\robert-admin\Downloads\Projeto team\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\robert-admin\Downloads\Projeto team\WpfApp1\WpfApp1\bin\Debug\Nuclex.Cloning.dll

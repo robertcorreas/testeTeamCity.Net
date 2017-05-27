@@ -23,6 +23,12 @@ namespace WpfApp1
         public MainWindow()
         {
             InitializeComponent();
+
+
+            var p = new Ponto(10,20);
+
+            var pp = Nuclex.Cloning.ExpressionTreeCloner.DeepFieldClone(p);
+
         }
     }
 }
